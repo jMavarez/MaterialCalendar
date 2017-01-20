@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="monday_name_short">L</string>
+    <string name="tuesday_name_short">M</string>
+    <string name="wednesday_name_short">M</string>
+    <string name="thursday_name_short">J</string>
+    <string name="friday_name_short">V</string>
+    <string name="saturday_name_short">S</string>
+    <string name="sunday_name_short">D</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarView">
+        <attr name="mc_color" format="color"/>
+        <attr name="mc_selectColor" format="color"/>
+        <attr name="mc_selectTextColor" format="color"/>
+        <attr name="mc_startsOnSunday" format="boolean"/>
+    </declare-styleable>
+</resources>

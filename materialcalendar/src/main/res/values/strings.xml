@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MDCalendar</string>
+    <string name="monday_name_short">M</string>
+    <string name="tuesday_name_short">T</string>
+    <string name="wednesday_name_short">W</string>
+    <string name="thursday_name_short">T</string>
+    <string name="friday_name_short">F</string>
+    <string name="saturday_name_short">S</string>
+    <string name="sunday_name_short">S</string>
+</resources>
