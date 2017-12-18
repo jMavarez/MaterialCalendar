@@ -6,9 +6,9 @@ import java.util.ArrayList;
 import java.util.Date;
 
 public interface CalendarCallback {
-    Date getDateSelected();
+  Date getDateSelected();
 
-    ArrayList<CalendarDay> getEvents();
+  ArrayList<CalendarDay> getEvents();
 
-    boolean getIndicatorsVisible();
+  boolean getIndicatorsVisible();
 }
