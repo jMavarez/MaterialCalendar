@@ -10,10 +10,10 @@ import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.jmavarez.materialcalendar.Interface.CalendarCallback;
-import com.jmavarez.materialcalendar.Interface.DayViewDecorator;
-import com.jmavarez.materialcalendar.Interface.OnDateChangedListener;
-import com.jmavarez.materialcalendar.Interface.OnMonthChangedListener;
+import com.jmavarez.materialcalendar.listener.CalendarCallback;
+import com.jmavarez.materialcalendar.listener.DayViewDecorator;
+import com.jmavarez.materialcalendar.listener.OnDateChangedListener;
+import com.jmavarez.materialcalendar.listener.OnMonthChangedListener;
 import com.jmavarez.materialcalendar.Util.CalendarDay;
 import com.jmavarez.materialcalendar.Util.WrapContentViewPager;
 

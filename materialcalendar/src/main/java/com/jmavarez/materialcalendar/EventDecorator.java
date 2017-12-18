@@ -2,7 +2,7 @@ package com.jmavarez.materialcalendar;
 
 import android.util.Log;
 
-import com.jmavarez.materialcalendar.Interface.DayViewDecorator;
+import com.jmavarez.materialcalendar.listener.DayViewDecorator;
 import com.jmavarez.materialcalendar.Util.CalendarDay;
 
 import java.text.SimpleDateFormat;

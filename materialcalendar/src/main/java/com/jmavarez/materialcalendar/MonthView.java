@@ -11,8 +11,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.jmavarez.materialcalendar.Interface.CalendarCallback;
-import com.jmavarez.materialcalendar.Interface.OnDateChangedListener;
+import com.jmavarez.materialcalendar.listener.CalendarCallback;
+import com.jmavarez.materialcalendar.listener.OnDateChangedListener;
 import com.jmavarez.materialcalendar.Util.CalendarDay;
 import com.jmavarez.materialcalendar.Util.CalendarUtils;
 

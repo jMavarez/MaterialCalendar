@@ -10,8 +10,8 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.jmavarez.materialcalendar.CalendarView;
-import com.jmavarez.materialcalendar.Interface.OnDateChangedListener;
-import com.jmavarez.materialcalendar.Interface.OnMonthChangedListener;
+import com.jmavarez.materialcalendar.listener.OnDateChangedListener;
+import com.jmavarez.materialcalendar.listener.OnMonthChangedListener;
 import com.jmavarez.materialcalendar.Util.CalendarDay;
 import com.jmavarez.materialcalendar.Util.CalendarUtils;
 

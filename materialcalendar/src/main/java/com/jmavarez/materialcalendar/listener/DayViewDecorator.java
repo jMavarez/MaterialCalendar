@@ -1,4 +1,4 @@
-package com.jmavarez.materialcalendar.Interface;
+package com.jmavarez.materialcalendar.listener;
 
 import com.jmavarez.materialcalendar.DayView;
 import com.jmavarez.materialcalendar.Util.CalendarDay;
