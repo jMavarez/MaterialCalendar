@@ -1,6 +1,6 @@
 # Material Design Calendar
 
-A Material design calendar inspired on the CalendarView of [School Diary](https://play.google.com/store/apps/details?id=daldev.android.gradehelper&hl=es_419).
+A Material design calendar inspired by the CalendarView of [School Diary](https://play.google.com/store/apps/details?id=daldev.android.gradehelper&hl=es_419).
 
 <img src="/images/example.png" alt="Demo Calendar" width="300px" />
 
